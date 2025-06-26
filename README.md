@@ -27,8 +27,4 @@ Uma ferramenta web para formatar, minificar e visualizar respostas de APIs nos f
 - JavaScript (ES6+)
 - [Prism.js](https://prismjs.com/) para realce de sintaxe
 
-## Exemplo
 
-### JSON de entrada
-```json
-{"users":[{"id":1,"name":"John","email":"john@example.com"}],"total":1}
